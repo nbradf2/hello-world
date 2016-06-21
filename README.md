@@ -1,2 +1,3 @@
 # hello-world
 First repository ever...
+I am new to coding, fresh-eyed and baby-faced.  Good luck to me.
